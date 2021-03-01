@@ -1,2 +1,5 @@
 # DataCrawl
-A project for sorting algorithm using python
+
+# Author: Miley Li
+# Date: 2021/03/01
+# Desc: A project for sorting algorithm.
